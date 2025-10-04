@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "Descubrimiento de una nueva proteína estelar",
+      "summary": "Un estudio revela una proteína capaz de resistir entornos extremos en el espacio.",
+      "authors": "S. Morales, L. Quispe",
+      "year": 2024
+    },
+    {
+      "id": 2,
+      "title": "Estudio sobre microorganismos espaciales",
+      "summary": "Se identifican microorganismos adaptados a radiación cósmica prolongada.",
+      "authors": "J. Ramos, C. Valdivia",
+      "year": 2023
+    },
+    {
+      "id": 3,
+      "title": "Impacto de la radiación cósmica en ADN",
+      "summary": "Análisis detallado del efecto mutagénico de la radiación sobre secuencias genéticas.",
+      "authors": "F. Herrera, M. López",
+      "year": 2022
+    }
+  ]
+}
